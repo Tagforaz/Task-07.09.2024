@@ -34,7 +34,7 @@
 //    }
 //}
 
-//if (!tapildi)
+//if (tapildi)
 //{
 //    Console.WriteLine("Herf tapilmadi.");
 //}
@@ -66,27 +66,27 @@
 
 
 #region kvadrata yukseltme
-//int eded;
+int eded;
 
-//while (true)
-//{
+while (true)
+{
 
-//    Console.Write("Zehmet olmasa musbet ve cut eded yazin: ");
-//    eded = int.Parse(Console.ReadLine());
+    Console.WriteLine("Zehmet olmasa musbet ve cut eded yazin: ");
+    eded = int.Parse(Console.ReadLine());
 
-//    if (eded > 0 && eded % 2 == 0)
-//    {
+    if (eded > 0 && eded % 2 == 0)
+    {
 
-//        int kvadrat = eded * eded;
-//        Console.WriteLine($"Yazdiqiniz reqemin kvadrati: {kvadrat}");
-//        break;
-//    }
-//    else
-//    {
+        int kvadrat = eded * eded;
+        Console.WriteLine($"Yazdiqiniz reqemin kvadrati: {kvadrat}");
+        break;
+    }
+    else
+    {
 
-//        Console.WriteLine("Xeta: Yazdiqiniz eded musbet ve cut olmalıdır.");
-//    }
-//}
+        Console.WriteLine("Xeta: Yazdiqiniz eded musbet ve cut olmalıdır.");
+    }
+}
 #endregion
 
 #region Siyahidaki ededlerin cemi

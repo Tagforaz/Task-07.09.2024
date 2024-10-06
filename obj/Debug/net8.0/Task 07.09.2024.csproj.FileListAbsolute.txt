@@ -12,3 +12,4 @@ C:\Users\Tagforaz\Desktop\Task 07.09.2024\Task 07.09.2024\obj\Debug\net8.0\refin
 C:\Users\Tagforaz\Desktop\Task 07.09.2024\Task 07.09.2024\obj\Debug\net8.0\Task 07.09.2024.pdb
 C:\Users\Tagforaz\Desktop\Task 07.09.2024\Task 07.09.2024\obj\Debug\net8.0\Task 07.09.2024.genruntimeconfig.cache
 C:\Users\Tagforaz\Desktop\Task 07.09.2024\Task 07.09.2024\obj\Debug\net8.0\ref\Task 07.09.2024.dll
+C:\Users\Tagforaz\Desktop\Task 07.09.2024\Task 07.09.2024\obj\Debug\net8.0\Task 07.09.2024.sourcelink.json
